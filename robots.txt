@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pohquahtoe.pandaplays.games/sitemap.xml
